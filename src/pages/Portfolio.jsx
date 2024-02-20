@@ -2,33 +2,33 @@ export default function Portfolio() {
   return (
     <div class="content">
       <h1>Portfolio</h1>
-      <div class="container">
+      <div class="container portfolioBody">
         <div class="row">
           <div class="col-sm">
             <div class="card">
-              <img class="card-img-top" src="src\assets\images\Screenshot 2024-02-19 215657.png" alt="Card image cap" />
+              <img class="card-img-top cardImg" src="src\assets\images\image-1.png" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title">Note Taker</h5>
-                <p class="card-text">A notetaking application.</p>
-                <a href="https://vast-bayou-91858-1f9d9d9478c9.herokuapp.com/" class="btn btn-success">Visit Site</a>
-                <a href="https://github.com/eagersidekick/Note_Taker" class="btn btn-success">Go to Repository</a>
+                <h5 class="card-title">Traffic Jam</h5>
+                <p class="card-text">Plan a trip with this roadtrip map that also finds events near your destination.</p>
+                <a href="https://eagersidekick.github.io/Traffic_Jam/" class="btn btn-success">Visit Site</a>
+                <a href="https://github.com/eagersidekick/Traffic_Jam" class="btn btn-success">Go to Repository</a>
               </div>
             </div>
           </div>
           <div class="col-sm">
           <div class="card">
-              <img class="card-img-top" src="..." alt="Card image cap" />
+              <img class="card-img-top cardImg" src="src\assets\images\Screenshot 2024-02-19 220354.png" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-success">Visit Site</a>
-                <a href="#" class="btn btn-success">Go to Repository</a>
+                <h5 class="card-title">Javascript Quiz</h5>
+                <p class="card-text">Test your knowledge with a Javascript quiz.</p>
+                <a href="https://eagersidekick.github.io/Javascript_Quiz_Game/" class="btn btn-success">Visit Site</a>
+                <a href="https://github.com/eagersidekick/Javascript_Quiz_Game" class="btn btn-success">Go to Repository</a>
               </div>
             </div>
           </div>
           <div class="col-sm">
           <div class="card">
-              <img class="card-img-top" src="src\assets\images\passwordgnrtr.png" alt="Card image cap" />
+              <img class="card-img-top cardImg" src="src\assets\images\passwordgnrtr.png" alt="Card image cap" />
               <div class="card-body">
                 <h5 class="card-title">Password Generator</h5>
                 <p class="card-text">Generate a random password with javascript.</p>
@@ -42,29 +42,29 @@ export default function Portfolio() {
         <div class="row">
           <div class="col-sm">
             <div class="card">
-              <img class="card-img-top" src="..." alt="Card image cap" />
+              <img class="card-img-top cardImg" src="src\assets\images\image.png" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-success">Visit Site</a>
-                <a href="#" class="btn btn-success">Go to Repository</a>
+                <h5 class="card-title">Daily Scheduler</h5>
+                <p class="card-text">Keep track of your day with this time management tool.</p>
+                <a href="https://eagersidekick.github.io/daily_scheduler/" class="btn btn-success">Visit Site</a>
+                <a href="https://github.com/eagersidekick/daily_scheduler" class="btn btn-success">Go to Repository</a>
               </div>
             </div>
           </div>
           <div class="col-sm">
           <div class="card">
-              <img class="card-img-top" src="..." alt="Card image cap" />
+              <img class="card-img-top cardImg" src="src\assets\images\weather.png" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-success">Visit Site</a>
-                <a href="#" class="btn btn-success">Go to Repository</a>
+                <h5 class="card-title">Weather Tracker</h5>
+                <p class="card-text">Find the weather in your city and have fun with API calls.</p>
+                <a href="https://eagersidekick.github.io/Weather_Tracker/" class="btn btn-success">Visit Site</a>
+                <a href="https://github.com/eagersidekick/Weather_Tracker" class="btn btn-success">Go to Repository</a>
               </div>
             </div>
           </div>
           <div class="col-sm">
           <div class="card">
-              <img class="card-img-top" src="src\assets\images\portal.png" alt="Card image cap" />
+              <img class="card-img-top cardImg" src="src\assets\images\portal.png" alt="Card image cap" />
               <div class="card-body">
                 <h5 class="card-title">ClockWise</h5>
                 <p class="card-text">An MVC timecard App.</p>

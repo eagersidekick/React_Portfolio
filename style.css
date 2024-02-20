@@ -40,3 +40,16 @@
 .card {
     width: 250px;
 }
+
+.cardImg {
+    height: 150px;
+}
+
+.portfolioBody {
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+.footer {
+    background-color: white;
+}
