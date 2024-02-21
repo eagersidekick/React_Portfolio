@@ -11,7 +11,7 @@ export default function AboutMe() {
             for seven years, five years as a high school English teacher. From there, I moved on to adult education
             working for Oracle-Cerner to develop professional level medical software training curriculum and documents.
             Working with coders and software experts sparked an interest in coding and app development. To that end, I
-            am currently a student coder enrolled in KU’s Coding Bootcamp.</p>
+            am currently a student coder enrolled in KU’s Coding Bootcamp!</p>
         <p>While my many professional lives may seem unrelated, they have all been guided forward by my passion for
             creative problem solving and sincere desire to learn and grow. My experiences as a teacher taught me
             patience and how to break down complicated problems into bite sized pieces. I firmly believe that one year
