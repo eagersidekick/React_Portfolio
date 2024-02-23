@@ -4,7 +4,7 @@ export default function AboutMe() {
       <h1>About Me</h1>
       <div class="aboutme">
         <div class="card"></div>
-        <img id="me" src='src\assets\images\_MG_7930-Edit_websize.jpg'></img>
+        <img id="me" src='../../public/assets/images/_MG_7930-Edit_websize.jpg'></img>
         <p>My name is Heather Crawford. I am a student coder currently enrolled in KU's Coding Bootcamp.</p>
         <p>I am a professional professional with a variety of career experiences under my belt.</p>
         <p>I graduated from UMKC with a BA in Secondary Education and English. I worked in public and private education
