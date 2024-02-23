@@ -6,7 +6,7 @@ export default function Portfolio() {
         <div class="row">
           <div class="col-sm">
             <div class="card">
-              <img class="card-img-top cardImg" src="/public/assets/images/image-1.png" alt="Card image cap" />
+              <img class="card-img-top cardImg" src="/assets/images/image-1.png" alt="Card image cap" />
               <div class="card-body">
                 <h5 class="card-title">Traffic Jam</h5>
                 <p class="card-text">Plan a trip with this roadtrip map that also finds events near your destination.</p>
@@ -28,7 +28,7 @@ export default function Portfolio() {
           </div>
           <div class="col-sm">
           <div class="card">
-              <img class="card-img-top cardImg" src="../../public/assets/images/passwordgnrtr.png" alt="Card image cap" />
+              <img class="card-img-top cardImg" src="/assets/images/passwordgnrtr.png" alt="Card image cap" />
               <div class="card-body">
                 <h5 class="card-title">Password Generator</h5>
                 <p class="card-text">Generate a random password with javascript.</p>
@@ -42,7 +42,7 @@ export default function Portfolio() {
         <div class="row">
           <div class="col-sm">
             <div class="card">
-              <img class="card-img-top cardImg" src="../../public/assets/images/image.png" alt="Card image cap" />
+              <img class="card-img-top cardImg" src="/assets/images/image.png" alt="Card image cap" />
               <div class="card-body">
                 <h5 class="card-title">Daily Scheduler</h5>
                 <p class="card-text">Keep track of your day with this time management tool.</p>
@@ -53,7 +53,7 @@ export default function Portfolio() {
           </div>
           <div class="col-sm">
           <div class="card">
-              <img class="card-img-top cardImg" src="../../public/assets/images/weather.png" alt="Card image cap" />
+              <img class="card-img-top cardImg" src="/assets/images/weather.png" alt="Card image cap" />
               <div class="card-body">
                 <h5 class="card-title">Weather Tracker</h5>
                 <p class="card-text">Find the weather in your city and have fun with API calls.</p>
@@ -64,7 +64,7 @@ export default function Portfolio() {
           </div>
           <div class="col-sm">
           <div class="card">
-              <img class="card-img-top cardImg" src="../../public/assets/images/portal.png" alt="Card image cap" />
+              <img class="card-img-top cardImg" src="/assets/images/portal.png" alt="Card image cap" />
               <div class="card-body">
                 <h5 class="card-title">ClockWise</h5>
                 <p class="card-text">An MVC timecard App.</p>
