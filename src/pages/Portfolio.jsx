@@ -6,7 +6,7 @@ export default function Portfolio() {
         <div class="row">
           <div class="col-sm">
             <div class="card">
-              <img class="card-img-top cardImg" src="../../public/assets/images/image-1.png" alt="Card image cap" />
+              <img class="card-img-top cardImg" src="/public/assets/images/image-1.png" alt="Card image cap" />
               <div class="card-body">
                 <h5 class="card-title">Traffic Jam</h5>
                 <p class="card-text">Plan a trip with this roadtrip map that also finds events near your destination.</p>
@@ -17,7 +17,7 @@ export default function Portfolio() {
           </div>
           <div class="col-sm">
           <div class="card">
-              <img class="card-img-top cardImg" src="../../public/assets/images/Screenshot 2024-02-19 220354.png" alt="Card image cap" />
+              <img class="card-img-top cardImg" src="/assets/images/Screenshot 2024-02-19 220354.png" alt="Card image cap" />
               <div class="card-body">
                 <h5 class="card-title">Javascript Quiz</h5>
                 <p class="card-text">Test your knowledge with a Javascript quiz.</p>
