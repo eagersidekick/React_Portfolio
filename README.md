@@ -19,7 +19,8 @@ This project is licensed under the MIT license. See the license for more informa
 ![alt text](portfolio.png)
 
 ## Links
-https://github.com/eagersidekick/React_Portfolio
+Repo: https://github.com/eagersidekick/React_Portfolio
+Live Site: https://codingwithheather.netlify.app
 
 
 
